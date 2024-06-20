@@ -8,9 +8,9 @@ We hope that this course gets students excited about combining programming and q
 
 **Instructors**:
 
- -	Luisa Fernanda Escobar-Robledo (PhD student, [CPCB](https://www.compbio.cmu.edu/))
- - Keisuke Ishihara (Assistant Professor, [Computational and Systems Biology](https://www.csb.pitt.edu/))
- - Chris Morii-Sciolla (PhD student, [IBGP](https://www.gradbiomed.pitt.edu/))
+ -	Luisa Fernanda Escobar-Robledo (PhD student, [CPCB](https://www.compbio.cmu.edu/)) lae84@pitt.edu
+ - Keisuke Ishihara (Assistant Professor, [Computational and Systems Biology](https://www.csb.pitt.edu/)) ishihara@pitt.edu
+ - Chris Morii-Sciolla (PhD student, [IBGP](https://www.gradbiomed.pitt.edu/)) chm271@pitt.edu
 
 |      | Date              | Time        | Topic                     | Programming Concepts                | Materials              |
 | ---- | ----------------- | ----------- | ------------------------- | ----------------------------------- | ---------------------- |
