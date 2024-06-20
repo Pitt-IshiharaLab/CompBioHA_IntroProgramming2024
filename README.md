@@ -2,7 +2,9 @@
 
 This site provides the material for the "Intro to Programming" course for students participating in the CompBio Hillman Academy 2024.
 
-The course provides a basic hands-on lesson in programming using Python and examples from compuational biology. No previous programming knowledge is assumed. This is NOT a comprehensive intro course in programming. Rather we hope students gets excited about combining programming and biology in their future research!
+The course provides a basic hands-on lesson in programming using Python and examples from compuational biology. No previous programming knowledge is assumed.
+This is NOT a comprehensive intro course in programming.
+We hope that this course gets students excited about combining programming and quantitative thinking in their biology research!
 
 **Instructors**:
 
