@@ -12,6 +12,12 @@ We hope that this course gets students excited about combining programming and q
  - Keisuke Ishihara (Assistant Professor, [Computational and Systems Biology](https://www.csb.pitt.edu/)) ishihara@pitt.edu
  - Chris Morii-Sciolla (PhD student, [IBGP](https://www.gradbiomed.pitt.edu/)) chm271@pitt.edu
 
+**Meeting location:**
+
+ - Murdoch Building, 8th Floor Classroom
+
+**Schedule:**
+
 |      | Date              | Time        | Topic                     | Programming Concepts                | Materials              |
 | ---- | ----------------- | ----------- | ------------------------- | ----------------------------------- | ---------------------- |
 | 1    | Thursday, June 20 | 11:00-12:30 | Introduction              | Variables, functions                |[Slides](Lecture1/IntroProg_1.pdf), [Notebook](https://colab.research.google.com/drive/1C2j5L3Utm9yFWAL_RpIGMmmbCjdsnyym?usp=sharing)|
@@ -19,5 +25,4 @@ We hope that this course gets students excited about combining programming and q
 | 3    | Tuesday, June 25  | 9:00-10:30  | Image Analysis            | For loops, numpy arrays, image data   | [Slides](Lecture3/IntroProgrammingPart3.pdf), [Notebook](https://colab.research.google.com/drive/1Z_1n0V92YvV5C33_Yui2wo0yJpFlQCrR?usp=sharing) |
 | 4    | Thursday, June 27 | 11:00-12:30 | Modeling and Simulations  | For loops, plotting                 | [Slides](Lecture4/IntroProgrammingPart4.pdf), [Notebook](https://colab.research.google.com/drive/1cmQxeZ2FH8LOF4ycGMI9oijh9Wsq8qqh?usp=sharing), [Spreadsheet](https://docs.google.com/spreadsheets/d/1cVT4FuXZwbFvqwtDqw_85htjMMEOISS-zAoLCFe0oD8/edit?usp=sharing) |
 
-
-**Meeting location:** Murdoch Building, 8th Floor Classroom
+Monday, July 8, 2024: Machine Learning lecture by Tina Subic ([Slides](addlink), [Notebook](MLlecture.pdf))
